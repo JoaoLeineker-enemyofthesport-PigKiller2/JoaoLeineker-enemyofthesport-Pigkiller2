@@ -3,5 +3,4 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Podes entrar em contato com a minha pessoa em joao.leineker@escola.pr.gov.br
-![](https://tenor.com/4mmV.gif)
-https://tenor.com/4mmV.gif
+![Guy Punches Through Computer Monitor](https://i.makeagif.com/media/9-09-2018/JYWQgF.gif)
